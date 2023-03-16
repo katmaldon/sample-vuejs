@@ -1,9 +1,9 @@
-name: sample-vuejs
+name: dreams-of-persia
 services:
 - build_command: yarn build
   environment_slug: node-js
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-vuejs
+    repo: katmaldon/sample-vuejs
   name: sample-vuejs
