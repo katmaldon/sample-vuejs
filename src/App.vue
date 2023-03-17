@@ -16,6 +16,6 @@ export default {
 <style>
 #app {
     background: rgb(0,212,255);
-    background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(17,42,150,1) 64%, rgba(2,0,36,1) 100%);
+    background: linear-gradient(332deg, rgba(0,212,255,1) 0%, rgba(17,42,150,1) 64%, rgba(2,0,36,1) 100%);
 }
 </style>
